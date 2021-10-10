@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SalehOto
-- 👀 I’m interested in Product Developments and Software engineering 
+- 👀 I’m interested in Product Development and Software engineering 
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on Github and any tech community
 - 📫 How to reach me, drop me an email to this address: oto.asz1@gmail.com
